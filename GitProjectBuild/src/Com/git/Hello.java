@@ -6,6 +6,8 @@ public class Hello {
 		
 		System.out.println("Hello Git");
 		System.out.println("Welcome in Git");
+		Hello h=new Hello();
+		h.m1();
 	}
 	public void m1()
 	{
